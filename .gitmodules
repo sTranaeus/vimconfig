@@ -1,0 +1,15 @@
+[submodule "bundle/Vundle.vim"]
+	path = bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule "bundle/vim-isort"]
+	path = bundle/vim-isort
+	url = https://github.com/fisadev/vim-isort
+[submodule "bundle/auto-pairs-gentle"]
+	path = bundle/auto-pairs-gentle
+	url = https://github.com/vim-scripts/auto-pairs-gentle
+[submodule "bundle/python-syntax"]
+	path = bundle/python-syntax
+	url = https://github.com/hdima/python-syntax
